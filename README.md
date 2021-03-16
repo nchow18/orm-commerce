@@ -26,7 +26,7 @@ To install: please prepare mysql, mysql2, require, dotenv, bcrypt and inquirer f
 
 Please follow instructional video
 
-* ![Instructional Video](https://www.youtube.com/watch?v=tOyZaPAVBfk)
+[![Instructional Video](http://img.youtube.com/vi/tOyZaPAVBfk/0.jpg)](http://www.youtube.com/watch?v=tOyZaPAVBfk "Instructional Video")
 
 ## Credits
 
